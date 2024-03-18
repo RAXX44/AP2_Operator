@@ -1,6 +1,6 @@
 # AP2_Operator
 
-Buatlah program untuk menghitung luas permukaan dan volume dari bangun ruang 
+Buatlah program untuk menghitung volume dari bangun ruang 
 a.	Kerucut
 b.	Limas Segitiga
 c.	Bola
